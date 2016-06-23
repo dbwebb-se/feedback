@@ -1,0 +1,87 @@
+{
+    "01": {
+        "name": "Kom i gång med Python",
+        "preText": "<p>Hej och välkommen till Python kursen här på BTH!<br>Om du har några frågor eller vill konversera med lärare eller andra studenter så kan du besöka vårat forum:<br><a href='http://dbwebb.se/forum/'>http://dbwebb.se/forum/</a> eller våran irc-kanal: <a href='http://dbwebb.se/irc'>http://dbwebb.se/irc</a></p><p>Hoppas du får ut allt du önskar och mer av denna kurs.</p>",
+        "haveExtra": false,
+        "helpToTeacher": [
+            "Tänk på att kolla me-sidan. Inga error 500!",
+            "Titta så de har en ascii-bild",
+            "Titta så de har skrivit något om sig själva"
+        ],
+        "availableInfo": [
+            "Mer info om cgi: http://www.tutorialspoint.com/python/python_cgi_programming.htm"
+        ]
+    },
+    "02": {
+        "name": "Villkor, funktioner och loopar",
+        "preText": "<p>Välkommen till andra kurmomentet i python kursen. Hoppas att du trivs med kursen än så länge och att den lever upp till dina förväntningar.</p>",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "03": {
+        "name": "Strängar och filer",
+        "preText": "<p>Välkommen till tredje kurmomentet i python kursen. Hoppas att du trivs med kursen än så länge och att den lever upp till dina förväntningar.</p><p>Nu har vi grävt ner oss mer i terminalen och arbetat med strängar och filer.</p>",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "04": {
+        "name": "Listor",
+        "preText": "<p>Välkommen till fjärde kurmomentet. Hoppas att du trivs med kursen än så länge.</p><p>Det här momentet har handlat om listor och hur man kan arbeta med dem.</p>",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "05": {
+        "name": "Dictionaries och Tupler",
+        "preText": "<p>Välkommen till femte kurmomentet. Vi är längre än halvvägs i kursen och gått in på fler datastrukturer i Python.</p>",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "06": {
+        "name": "Externa moduler och webben",
+        "preText": "<p>Välkommen till sjätte kurmomentet. Det här var det sista momentet innan projeket (examinationen).</p><p>Det här kan av vissa anses som ett lite tyngre moment med inslagen av databaser och externa moduler. Hoppas du gillade det.",
+        "haveExtra": false,
+        "helpToTeacher": [
+            
+        ],
+        "availableInfo": [
+            
+        ]
+    },
+    "10": {
+        "name": "Projekt och examination",
+        "preText": "<p>Välkommen till projektet i Python. Grattis till att du klarat dig såhär långt! Hoppas du tyckt bra om kursen. Vill också påminna om att du bör fylla i kursutvärderingen som kommer om ett tag då den hjälper oss att  utveckla kursen för framtida studenter.</p>",
+        "helpToTeacher": [
+            "Kraven finns på: <a href='http://dbwebb.se/python/kmom10'>dbwebb</a>",
+            "Krav 1 innebär att options (syns i inspect) ska fungera utan att spelet startar.",
+            "Krav 2 är kommandona i spelet. [i, info], [h, hjälp], [fr, fram], [ba, bak], [se], [l, ledtråd] ska fungera.",
+            "Krav 3 är interaktionen med objekt. [o, objekt], [t [objekt], titta [objekt]], [ö [objekt], öppna [objekt]], [s [objekt], sparka [objekt]], [f [objekt], flytta [objekt]] ska fungera.",
+            "krav 4 (optionellt) Ryggsäck - [inv, inventarier], [ta [objekt]], [sl [objekt], släpp [objekt]], [a [objekt], använd [objekt]] ska fungera.",
+            "Krav 5 (optionellt) Scrapa/Spara - Scrapa i minst 4 rum, Spara och ladda (till/från fil) + fil som placerar en i sista rummet med all utrustning.",
+            "Krav 6 (optionellt) Spel i spelet - Måste klaras för att komma vidare. TicTacToe, Curses eller Ceasar-kryptospel",
+            "Om namn på kommandon är ändrade måste de skriva om det i sin text. Alla implementerade krav ska även vara dokumenterade."
+        ],
+        "availableInfo": [
+            
+        ]
+    }
+}

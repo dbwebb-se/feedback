@@ -1,0 +1,58 @@
+<!doctype html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/style.css">
+<title>Ask</title>
+
+<h1>Ask</h1>
+
+<form>
+    <fieldset>
+        <legend>Kursmoment:</legend>
+
+        <label>Kurs:
+            <select>
+                <option value="-1">Välj kurs...</option>
+                <option value="htmlphp">htmlphp</option>
+                <option value="python">python</option>
+            </select>
+        </label>
+
+        <label>Kursmoment:
+            <select>
+                <option value="-1">Välj kmom...</option>
+                <option value="kmom01">kmom01</option>
+                <option value="kmom02">kmom02</option>
+            </select>
+        </label>
+
+        <label>Rättare:
+            <select>
+                <option value="-1">Välj rättare...</option>
+                <option value="mos">mos</option>
+                <option value="lew">lew</option>
+                <option value="zeldah">zeldah</option>
+            </select>
+        </label>
+
+        <label>Information:
+            <output id="info"></output>
+        </label>
+
+        <label>Feedback:
+            <textarea id="feedback" placeholder="Skriv feedback här..."></textarea>
+        </label>
+
+        <label>Feedback resultat:
+            <output id="feedback"></output>
+        </label>
+
+    </fieldset>
+
+</form>
+
+<div id="example">Example</div>
+<div id="example1">Example1</div>
+
+
+<script src="js/mithril.min.js"></script>
+<script src="js/feedback.js"></script>

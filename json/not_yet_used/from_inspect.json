@@ -1,0 +1,15 @@
+{
+    "course": "python",
+    "code": "DV1531",
+    "student": "leol12",
+    "teacher": "kele12",
+    "kmom": "01",
+    "exercises": {
+        "uppgift 1": "OK",
+        "uppgift 2": "Fel",
+        "extra": {
+            "ex_uppgift 1": "inte gjort",
+            "ex_uppgift 2": "gjort halva"
+        }
+    }
+}

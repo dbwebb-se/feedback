@@ -1,0 +1,15 @@
+{
+    "links": [
+        "<a href='http://dbwebb.se/irc'>Chat</a>",
+        "<a href='http://dbwebb.se/forum'>Forum</a>",
+        "<a href='http://dbwebb.se/kunskap/att-skriva-en-bra-redovisningstext'>Skriva bra redovisningstext</a>",
+        "<a href='http://dbwebb.se/forum/viewtopic.php?t=1033'>Tiden räcker inte till</a>",
+        "<a href='http://dbwebb.se/forum/viewtopic.php?f=30&t=1113'>FAQ</a>"
+    ],
+    "_comment": "intro kan slumpas fram?",
+    "intro": [
+        "Jag har tittat på dina uppgifter och här kommer lite feedback.",
+        "Följande uppgifter är kontrollerade:",
+        "Jag har kikat på följande uppgifter:"
+    ]
+}
